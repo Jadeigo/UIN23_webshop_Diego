@@ -177,6 +177,7 @@ article.product-card button:hover {
     margin-bottom: .5rem;
     display: block;
     clear: both;
+    transition: ease-in-out .7s;
 }
 #cartview ul li > * {
     box-sizing: border-box;
