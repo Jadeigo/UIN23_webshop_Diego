@@ -12,7 +12,7 @@ function addToCart(title, price) {
     //sjekk for å åpne cart når man trykker på add to cart / la den bli og opdattere seg når man trykker igjen på add to cart.
     document.querySelector("#cartview").classList.remove("hidden")
     /*annet metode 
-    if(document.gerElementById("cartview").classList.contains("hidden")){
+    if(document.getElementById("cartview").classList.contains("hidden")){
     toggleCart();
     }*/
 }
